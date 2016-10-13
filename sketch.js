@@ -4,4 +4,5 @@ function setup() {
 
 function draw() {
   rect( mouseX , mouseY , 110 , 110 );
+  fill(15,15,15)
 }
